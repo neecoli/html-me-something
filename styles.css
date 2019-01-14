@@ -1,11 +1,11 @@
  <! --  element, class, id -->
  body {
-  background-color: lightpink;
+  background-color: rgb(240, 196, 202);
   margin: 10;
 }
 
 header, main, footer 
-{background-color: lightpink;
+{background-color: rgb(240, 196, 202);
 }
  h1 {
     color: black;
@@ -31,6 +31,6 @@ header, main, footer
   #Introduction, #Background, #Skills, #Interests {
     font-family: "Times New Roman", sans-serif;
     padding: 0px;
-    background-color: lightpink;
+    background-color: rgb(240, 196, 202);
   }
   

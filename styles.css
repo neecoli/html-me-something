@@ -1,0 +1,36 @@
+ <! --  element, class, id -->
+ body {
+  background-color: lightpink;
+  margin: 10;
+}
+
+header, main, footer 
+{background-color: lightpink;
+}
+ h1 {
+    color: black;
+    font-family: "Bodoni MT", serif, "Brush Script MT", cursive;
+    font-weight: bold;
+    padding-top: 50px;
+    width: 100%;
+    text-align: center;
+  }
+
+  h2 {
+    color: rgb(16, 70, 16);
+    font-family: "Bodoni MT", serif, "Brush Script MT", cursive;
+    font-weight: bold;
+    padding-top: 10px;
+    width: 100%;
+  }
+
+  figcaption {
+    font-style: italic;
+  }
+
+  #Introduction, #Background, #Skills, #Interests {
+    font-family: "Times New Roman", sans-serif;
+    padding: 0px;
+    background-color: lightpink;
+  }
+  
